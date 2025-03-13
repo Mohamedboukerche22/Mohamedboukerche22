@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedboukerche22&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
-- 🔭 I’m currently working on **Websites**
+- 🔭 I’m currently working on **Websites** and **competitive programing **
 
 - 🌱 I’m currently learning **C, C++**
 
