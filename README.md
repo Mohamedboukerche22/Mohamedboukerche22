@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Mohamed boukerche</h1>
-<h3 align="center"> Web developer from Algeria </h3>
+<h3 align="center"> developer from Algeria  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedboukerche22"&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedboukerche22"> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedboukerche22&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
