@@ -3,6 +3,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedboukerche22&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedboukerche22&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohamedboukerche22&theme=dark&border_radius=5)](https://git.io/streak-stats)
 </div>
 
 -
