@@ -5,6 +5,8 @@
   
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedboukerche22&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 
+  <img src="https://github-streak-stats-872a078eb92b.herokuapp.com/?user=mohamedboukerche22&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B" />
+
  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohamedboukerche22&theme=dark&border_radius=5)](https://git.io/streak-stats)-->
 
 </div>
