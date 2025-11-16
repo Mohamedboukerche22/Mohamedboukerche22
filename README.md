@@ -14,7 +14,7 @@
 ## programing languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,androidstudio,bash,cs,cpp,css,electron,git,html,js,md,mysql,nodejs,php,py,react," />
+    <img src="https://skillicons.dev/icons?i=bash,cs,cpp,git,css,html,js,md,php,py,react,nodejs" />
   </a>
 
 </div>
