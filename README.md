@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, Mohamed boukerche</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedboukerche22"&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedboukerche22"> </p>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mohamedboukerche22&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
-  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedboukerche22&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mohamedboukerche22&theme=highcontrast)
   <img src="https://github-streak-stats-872a078eb92b.herokuapp.com/?user=mohamedboukerche22&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B" />
 
  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohamedboukerche22&theme=dark&border_radius=5)](https://git.io/streak-stats)-->
