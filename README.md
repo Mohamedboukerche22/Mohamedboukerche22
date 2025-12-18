@@ -4,6 +4,9 @@
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mohamedboukerche22&theme=highcontrast)
   <img src="https://github-streak-stats-872a078eb92b.herokuapp.com/?user=mohamedboukerche22&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B" />
+  <!--<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedboukerche22&layout=compact&langs_count=8&card_width=320" />-->
+
+
 
  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohamedboukerche22&theme=dark&border_radius=5)](https://git.io/streak-stats)-->
 
