@@ -31,7 +31,7 @@
 
 
 
-## 🌐 Socials:
+##  Socials:
 <div align="center">
 <a href="[mohamedboukerche55@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CrpPbDzFFdVtgdrBzCbXPHzLSrnghbRzhNNqbnqWVmqzZxdQrGVXMXVbDPCtdfWGBQMNkRQdtHDLJwBhsffg)" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.facebook.com/mohamed.boukerche.399" ><img src="https://github.com/user-attachments/assets/7e26be6c-90a3-4748-9d59-b222f2d20042" width="50" /></a>
@@ -47,12 +47,12 @@
 
 
 
-## Github Trophies
+<!--## Github Trophies
   <div align="center">
     
 ![](https://github-profile-trophy.vercel.app/?username=mohamedboukerche22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  </div>
+  </div>-->
 
 
 
