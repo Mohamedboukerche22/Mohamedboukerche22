@@ -16,7 +16,7 @@
 ## programing languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,latex,cs,cpp,git,css,html,js,md,php,py,react,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,latex,cs,cpp,c,css,html,js,md,py,react,nodejs,ts" />
   </a>
 
 </div>
@@ -24,7 +24,7 @@
 ## skills 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,arch,debian,linux,blender,ubuntu,unity,figma" />
+    <img src="https://skillicons.dev/icons?i=kali,arch,debian,linux,blender,ubuntu,unity,figma,git" />
   </a>
 
 </div>
